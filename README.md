@@ -1,6 +1,10 @@
 # javaresttest-submission
 Assignment for NJC Labs
 
+This is a general database that will have an item name, description, and amount in stock. The purpose of
+this program is for use with Postman to run the POST, GET, PUT, and DELETE commands to edit the mysql database.
+Coded in jvaa with use of springboot.
+
 how to use.
 
 MySql workbench and the server must be running so it has a database to connect to.
