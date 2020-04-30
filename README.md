@@ -10,7 +10,7 @@ how to use.
 MySql workbench and the server must be running so it has a database to connect to.
 I assume mysql workbench is setup to have connections accepted.
 
-create a database called 'items'
+create a database called 'items' within mysql workbench on a local server connection.
 
 
 Open project in eclipse 
@@ -39,6 +39,8 @@ The format is as followed for POST:
     "itemDesc": "Dual core laptop with windows 10",
     "amount": "12"
 }
+
+This will create the needed tables/columns within MySql workbench under the item database.
 
 for GET
 
