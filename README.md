@@ -41,6 +41,8 @@ The format is as followed for POST:
 }
 
 This will create the needed tables/columns within MySql workbench under the item database.
+If successful, the server will respond with a message about the entry in JSON format along with the ID number, 
+the ID is needed for the follow steps below...
 
 for GET
 
